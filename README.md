@@ -230,4 +230,16 @@
 
 # 开始模拟 决赛
 
+↓👇↓👇↓👇↓👇↓👇↓
+
 > 巴西(Brazil) vs. 葡萄牙(Portugal): 巴西(Brazil) 晋级，概率： 0.52
+
+↑👆↑👆↑👆↑👆↑👆↑
+
+---
+
+---
+
+---
+
+[![](https://komarev.com/ghpvc/?username=BNDou&&label=Views "To Github")](https://github.com/BNDou/)
