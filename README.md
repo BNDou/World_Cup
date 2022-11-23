@@ -2,11 +2,13 @@
 
 2022 世界杯预测
 
+截止 2022 年 11 月 23 日 19 点 41 分——准确率 75%
+
 # ----- 开始分析小组 A
 
-> 小组 A - 卡塔尔(Qatar) vs. 厄瓜多尔(Ecuador): 厄瓜多尔(Ecuador) 获胜，胜率： 0.60
+> ⭕ 小组 A - 卡塔尔(Qatar) vs. 厄瓜多尔(Ecuador): 厄瓜多尔(Ecuador) 获胜，胜率： 0.60
 
-> 小组 A - 塞内加尔(Senegal) vs. 荷兰(Netherlands): 荷兰(Netherlands) 获胜，胜率： 0.59
+> ⭕ 小组 A - 塞内加尔(Senegal) vs. 荷兰(Netherlands): 荷兰(Netherlands) 获胜，胜率： 0.59
 
 > 小组 A - 卡塔尔(Qatar) vs. 塞内加尔(Senegal): 塞内加尔(Senegal) 获胜，胜率： 0.58
 
@@ -25,9 +27,9 @@
 
 # ----- 开始分析小组 B
 
-> 小组 B - 英格兰(England) vs. 伊朗(Iran): 英格兰(England) 获胜，胜率： 0.60
+> ⭕ 小组 B - 英格兰(England) vs. 伊朗(Iran): 英格兰(England) 获胜，胜率： 0.60
 
-> 小组 B - United States vs. Wales: Draw
+> ⭕ 小组 B - United States vs. Wales: Draw
 
 > 小组 B - 威尔士(Wales) vs. 伊朗(Iran): 威尔士(Wales) 获胜，胜率： 0.54
 
@@ -46,9 +48,9 @@
 
 # ----- 开始分析小组 C
 
-> 小组 C - 阿根廷(Argentina) vs. 沙特阿拉伯(Saudi Arabia): 阿根廷(Argentina) 获胜，胜率： 0.70
+> ❌ 小组 C - 阿根廷(Argentina) vs. 沙特阿拉伯(Saudi Arabia): 阿根廷(Argentina) 获胜，胜率： 0.70
 
-> 小组 C - Mexico vs. Poland: Draw
+> ⭕ 小组 C - Mexico vs. Poland: Draw
 
 > 小组 C - 波兰(Poland) vs. 沙特阿拉伯(Saudi Arabia): 波兰(Poland) 获胜，胜率： 0.64
 
@@ -67,9 +69,9 @@
 
 # ----- 开始分析小组 D
 
-> 小组 D - 丹麦(Denmark) vs. 突尼斯(Tunisia): 丹麦(Denmark) 获胜，胜率： 0.63
+> ❌ 小组 D - 丹麦(Denmark) vs. 突尼斯(Tunisia): 丹麦(Denmark) 获胜，胜率： 0.63
 
-> 小组 D - 法国(France) vs. 澳大利亚(Australia): 法国(France) 获胜，胜率： 0.65
+> ⭕ 小组 D - 法国(France) vs. 澳大利亚(Australia): 法国(France) 获胜，胜率： 0.65
 
 > 小组 D - Tunisia vs. Australia: Draw
 
