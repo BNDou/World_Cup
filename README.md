@@ -3,11 +3,11 @@
 2022 世界杯预测
 
 ```
-截止 2022 年 11 月 23 日 23点35分
-总 10 场
-⭕ 6 场
+截止 2022 年 11 月 24 日 10 点 19 分
+总 12 场
+⭕ 8 场
 ❌ 4 场
-预测准确率 60%
+预测准确率 66.6667%
 ```
 
 # ----- 开始分析小组 A
@@ -98,7 +98,7 @@
 
 > ❌ 小组 E - 德国(Germany) vs. 日本(Japan): 德国(Germany) 获胜，胜率： 0.59
 
-> 小组 E - 西班牙(Spain) vs. 哥斯达黎加(Costa Rica): 西班牙(Spain) 获胜，胜率： 0.68
+> ⭕ 小组 E - 西班牙(Spain) vs. 哥斯达黎加(Costa Rica): 西班牙(Spain) 获胜，胜率： 0.68
 
 > 小组 E - Japan vs. Costa Rica: Draw
 
@@ -119,7 +119,7 @@
 
 > ❌ 小组 F - 摩洛哥(Morocco) vs. 克罗地亚(Croatia): 克罗地亚(Croatia) 获胜，胜率： 0.58
 
-> 小组 F - 比利时(Belgium) vs. 加拿大(Canada): 比利时(Belgium) 获胜，胜率： 0.67
+> ⭕ 小组 F - 比利时(Belgium) vs. 加拿大(Canada): 比利时(Belgium) 获胜，胜率： 0.67
 
 > 小组 F - 比利时(Belgium) vs. 摩洛哥(Morocco): 比利时(Belgium) 获胜，胜率： 0.63
 
