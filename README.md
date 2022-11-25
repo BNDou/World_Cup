@@ -6,11 +6,11 @@
 ❗❗❗仅供参考，不负责❗❗❗
 ❗❗❗仅供参考，不负责❗❗❗
 ❗❗❗仅供参考，不负责❗❗❗
-截止 2022 年 11 月 25 日 12 点 38 分
-总 16 场
-⭕ 11 场
-❌ 5 场
-预测准确率 68.75%
+截止 2022 年 11 月 25 日 22 点 20 分
+总 18 场
+⭕ 12 场
+❌ 6 场
+预测准确率 66.6667%
 ```
 
 # ----- 开始分析小组 A
@@ -19,7 +19,7 @@
 
 > ⭕ 小组 A - 塞内加尔(Senegal) vs. 荷兰(Netherlands): 荷兰(Netherlands) 获胜，胜率： 0.59
 
-> 小组 A - 卡塔尔(Qatar) vs. 塞内加尔(Senegal): 塞内加尔(Senegal) 获胜，胜率： 0.58
+> ⭕ 小组 A - 卡塔尔(Qatar) vs. 塞内加尔(Senegal): 塞内加尔(Senegal) 获胜，胜率： 0.58
 
 > 小组 A - 荷兰(Netherlands) vs. 厄瓜多尔(Ecuador): 荷兰(Netherlands) 获胜，胜率： 0.66
 
@@ -40,7 +40,7 @@
 
 > ⭕ 小组 B - United States vs. Wales: Draw
 
-> 小组 B - 威尔士(Wales) vs. 伊朗(Iran): 威尔士(Wales) 获胜，胜率： 0.54
+> ❌ 小组 B - 威尔士(Wales) vs. 伊朗(Iran): 威尔士(Wales) 获胜，胜率： 0.54
 
 > 小组 B - 英格兰(England) vs. 美国(United States): 英格兰(England) 获胜，胜率： 0.58
 
