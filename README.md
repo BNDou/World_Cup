@@ -6,11 +6,11 @@
 ❗❗❗仅供参考，不负责❗❗❗
 ❗❗❗仅供参考，不负责❗❗❗
 ❗❗❗仅供参考，不负责❗❗❗
-截止 2022 年 11 月 26 日 12 点 36 分
-总 20 场
-⭕ 12 场
-❌ 8 场
-预测准确率 60%
+截止 2022 年 11 月 27 日 17 点 37 分
+总 24 场
+⭕ 14 场
+❌ 10 场
+预测准确率 70%
 ```
 
 # ----- 开始分析小组 A
@@ -61,9 +61,9 @@
 
 > ⭕ 小组 C - Mexico vs. Poland: Draw
 
-> 小组 C - 波兰(Poland) vs. 沙特阿拉伯(Saudi Arabia): 波兰(Poland) 获胜，胜率： 0.64
+> ⭕ 小组 C - 波兰(Poland) vs. 沙特阿拉伯(Saudi Arabia): 波兰(Poland) 获胜，胜率： 0.64
 
-> 小组 C - 阿根廷(Argentina) vs. 墨西哥(Mexico): 阿根廷(Argentina) 获胜，胜率： 0.62
+> ⭕ 小组 C - 阿根廷(Argentina) vs. 墨西哥(Mexico): 阿根廷(Argentina) 获胜，胜率： 0.62
 
 > 小组 C - 波兰(Poland) vs. 阿根廷(Argentina): 阿根廷(Argentina) 获胜，胜率： 0.64
 
@@ -82,9 +82,9 @@
 
 > ⭕ 小组 D - 法国(France) vs. 澳大利亚(Australia): 法国(France) 获胜，胜率： 0.65
 
-> 小组 D - Tunisia vs. Australia: Draw
+> ❌ 小组 D - Tunisia vs. Australia: Draw
 
-> 小组 D - France vs. Denmark: Draw
+> ❌ 小组 D - France vs. Denmark: Draw
 
 > 小组 D - 澳大利亚(Australia) vs. 丹麦(Denmark): 丹麦(Denmark) 获胜，胜率： 0.65
 
