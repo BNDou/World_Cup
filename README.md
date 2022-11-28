@@ -6,11 +6,11 @@
 ❗❗❗仅供参考，不负责❗❗❗
 ❗❗❗仅供参考，不负责❗❗❗
 ❗❗❗仅供参考，不负责❗❗❗
-截止 2022 年 11 月 27 日 17 点 37 分
-总 24 场
-⭕ 14 场
-❌ 10 场
-预测准确率 58.3333%
+截止 2022 年 11 月 28 日 13 点 53 分
+总 28 场
+⭕ 16 场
+❌ 12 场
+预测准确率 57.1429%
 ```
 
 # ----- 开始分析小组 A
@@ -103,9 +103,9 @@
 
 > ⭕ 小组 E - 西班牙(Spain) vs. 哥斯达黎加(Costa Rica): 西班牙(Spain) 获胜，胜率： 0.68
 
-> 小组 E - Japan vs. Costa Rica: Draw
+> ❌ 小组 E - Japan vs. Costa Rica: Draw
 
-> 小组 E - Spain vs. Germany: Draw
+> ⭕ 小组 E - Spain vs. Germany: Draw
 
 > 小组 E - 日本(Japan) vs. 西班牙(Spain): 西班牙(Spain) 获胜，胜率： 0.62
 
@@ -124,9 +124,9 @@
 
 > ⭕ 小组 F - 比利时(Belgium) vs. 加拿大(Canada): 比利时(Belgium) 获胜，胜率： 0.67
 
-> 小组 F - 比利时(Belgium) vs. 摩洛哥(Morocco): 比利时(Belgium) 获胜，胜率： 0.63
+> ❌ 小组 F - 比利时(Belgium) vs. 摩洛哥(Morocco): 比利时(Belgium) 获胜，胜率： 0.63
 
-> 小组 F - 克罗地亚(Croatia) vs. 加拿大(Canada): 克罗地亚(Croatia) 获胜，胜率： 0.62
+> ⭕ 小组 F - 克罗地亚(Croatia) vs. 加拿大(Canada): 克罗地亚(Croatia) 获胜，胜率： 0.62
 
 > 小组 F - 克罗地亚(Croatia) vs. 比利时(Belgium): 比利时(Belgium) 获胜，胜率： 0.60
 
