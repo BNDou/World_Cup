@@ -6,11 +6,11 @@
 ❗❗❗仅供参考，不负责❗❗❗
 ❗❗❗仅供参考，不负责❗❗❗
 ❗❗❗仅供参考，不负责❗❗❗
-截止 2022 年 11 月 28 日 13 点 53 分
-总 28 场
-⭕ 16 场
-❌ 12 场
-预测准确率 57.1429%
+截止 2022 年 11 月 30 日 20 点 21 分
+总 36 场
+⭕ 19 场
+❌ 17 场
+预测准确率 52.7778%
 ```
 
 # ----- 开始分析小组 A
@@ -23,9 +23,9 @@
 
 > ❌ 小组 A - 荷兰(Netherlands) vs. 厄瓜多尔(Ecuador): 荷兰(Netherlands) 获胜，胜率： 0.66
 
-> 小组 A - 厄瓜多尔(Ecuador) vs. 塞内加尔(Senegal): 厄瓜多尔(Ecuador) 获胜，胜率： 0.53
+> ❌ 小组 A - 厄瓜多尔(Ecuador) vs. 塞内加尔(Senegal): 厄瓜多尔(Ecuador) 获胜，胜率： 0.53
 
-> 小组 A - 荷兰(Netherlands) vs. 卡塔尔(Qatar): 荷兰(Netherlands) 获胜，胜率： 0.69
+> ⭕ 小组 A - 荷兰(Netherlands) vs. 卡塔尔(Qatar): 荷兰(Netherlands) 获胜，胜率： 0.69
 
 ## 小组 A 排名:
 
@@ -44,9 +44,9 @@
 
 > ❌ 小组 B - 英格兰(England) vs. 美国(United States): 英格兰(England) 获胜，胜率： 0.58
 
-> 小组 B - 威尔士(Wales) vs. 英格兰(England): 英格兰(England) 获胜，胜率： 0.60
+> ⭕ 小组 B - 威尔士(Wales) vs. 英格兰(England): 英格兰(England) 获胜，胜率： 0.60
 
-> 小组 B - 伊朗(Iran) vs. 美国(United States): 美国(United States) 获胜，胜率： 0.57
+> ⭕ 小组 B - 伊朗(Iran) vs. 美国(United States): 美国(United States) 获胜，胜率： 0.57
 
 ## 小组 B 排名:
 
@@ -145,9 +145,9 @@
 
 > ⭕ 小组 G - 巴西(Brazil) vs. 塞尔维亚(Serbia): 巴西(Brazil) 获胜，胜率： 0.63
 
-> 小组 G - 喀麦隆(Cameroon) vs. 塞尔维亚(Serbia): 塞尔维亚(Serbia) 获胜，胜率： 0.61
+> ❌ 小组 G - 喀麦隆(Cameroon) vs. 塞尔维亚(Serbia): 塞尔维亚(Serbia) 获胜，胜率： 0.61
 
-> 小组 G - Brazil vs. Switzerland: Draw
+> ❌ 小组 G - Brazil vs. Switzerland: Draw
 
 > 小组 G - 塞尔维亚(Serbia) vs. 瑞士(Switzerland): 瑞士(Switzerland) 获胜，胜率： 0.56
 
@@ -166,9 +166,9 @@
 
 > ⭕ 小组 H - 葡萄牙(Portugal) vs. 加纳(Ghana): 葡萄牙(Portugal) 获胜，胜率： 0.71
 
-> 小组 H - 韩国(South Korea) vs. 加纳(Ghana): 韩国(South Korea) 获胜，胜率： 0.69
+> ❌ 小组 H - 韩国(South Korea) vs. 加纳(Ghana): 韩国(South Korea) 获胜，胜率： 0.69
 
-> 小组 H - Portugal vs. Uruguay: Draw
+> ❌ 小组 H - Portugal vs. Uruguay: Draw
 
 > 小组 H - 加纳(Ghana) vs. 乌拉圭(Uruguay): 乌拉圭(Uruguay) 获胜，胜率： 0.69
 
