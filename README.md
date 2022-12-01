@@ -6,11 +6,11 @@
 ❗❗❗仅供参考，不负责❗❗❗
 ❗❗❗仅供参考，不负责❗❗❗
 ❗❗❗仅供参考，不负责❗❗❗
-截止 2022 年 11 月 30 日 20 点 21 分
-总 36 场
-⭕ 19 场
-❌ 17 场
-预测准确率 52.7778%
+截止 2022 年 12 月 1 日 18 点 32 分
+总 40 场
+⭕ 21 场
+❌ 19 场
+预测准确率 52.5%
 ```
 
 # ----- 开始分析小组 A
@@ -29,9 +29,9 @@
 
 ## 小组 A 排名:
 
-- 荷兰(Netherlands) -------- 9
-- 厄瓜多尔(Ecuador) -------- 6
-- 塞内加尔(Senegal) -------- 3
+- 荷兰(Netherlands) -------- 7
+- 塞内加尔(Senegal) -------- 6
+- 厄瓜多尔(Ecuador) -------- 4
 - 卡塔尔(Qatar) -------- 0
 
 # ----- 开始分析小组 B
@@ -50,10 +50,10 @@
 
 ## 小组 B 排名:
 
-- 英格兰(England) -------- 9
-- 美国(United States) -------- 4
-- 威尔士(Wales) -------- 4
-- 伊朗(Iran) -------- 0
+- 英格兰(England) -------- 7
+- 美国(United States) -------- 5
+- 伊朗(Iran) -------- 3
+- 威尔士(Wales) -------- 1
 
 # ----- 开始分析小组 C
 
@@ -65,16 +65,16 @@
 
 > ⭕ 小组 C - 阿根廷(Argentina) vs. 墨西哥(Mexico): 阿根廷(Argentina) 获胜，胜率： 0.62
 
-> 小组 C - 波兰(Poland) vs. 阿根廷(Argentina): 阿根廷(Argentina) 获胜，胜率： 0.64
+> ⭕ 小组 C - 波兰(Poland) vs. 阿根廷(Argentina): 阿根廷(Argentina) 获胜，胜率： 0.64
 
-> 小组 C - 沙特阿拉伯(Saudi Arabia) vs. 墨西哥(Mexico): 墨西哥(Mexico) 获胜，胜率： 0.64
+> ⭕ 小组 C - 沙特阿拉伯(Saudi Arabia) vs. 墨西哥(Mexico): 墨西哥(Mexico) 获胜，胜率： 0.64
 
 ## 小组 C 排名:
 
-- 阿根廷(Argentina) -------- 9
+- 阿根廷(Argentina) -------- 6
 - 波兰(Poland) -------- 4
 - 墨西哥(Mexico) -------- 4
-- 沙特阿拉伯(Saudi Arabia) -------- 0
+- 沙特阿拉伯(Saudi Arabia) -------- 3
 
 # ----- 开始分析小组 D
 
@@ -86,9 +86,9 @@
 
 > ❌ 小组 D - France vs. Denmark: Draw
 
-> 小组 D - 澳大利亚(Australia) vs. 丹麦(Denmark): 丹麦(Denmark) 获胜，胜率： 0.65
+> ❌ 小组 D - 澳大利亚(Australia) vs. 丹麦(Denmark): 丹麦(Denmark) 获胜，胜率： 0.65
 
-> 小组 D - 突尼斯(Tunisia) vs. 法国(France): 法国(France) 获胜，胜率： 0.63
+> ❌ 小组 D - 突尼斯(Tunisia) vs. 法国(France): 法国(France) 获胜，胜率： 0.63
 
 ## 小组 D 排名:
 
