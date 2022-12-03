@@ -6,11 +6,11 @@
 ❗❗❗仅供参考，不负责❗❗❗
 ❗❗❗仅供参考，不负责❗❗❗
 ❗❗❗仅供参考，不负责❗❗❗
-截止 2022 年 12 月 1 日 18 点 32 分
-总 40 场
-⭕ 21 场
-❌ 19 场
-预测准确率 52.5%
+截止 2022 年 12 月 3 日 17 点 06 分
+总 48 场
+⭕ 24 场
+❌ 24 场
+预测准确率 50%
 ```
 
 # ----- 开始分析小组 A
@@ -92,10 +92,10 @@
 
 ## 小组 D 排名:
 
-- 法国(France) -------- 7
-- 丹麦(Denmark) -------- 7
-- 突尼斯(Tunisia) -------- 1
-- 澳大利亚(Australia) -------- 1
+- 法国(France) -------- 6
+- 澳大利亚(Australia) -------- 6
+- 突尼斯(Tunisia) -------- 4
+- 丹麦(Denmark) -------- 1
 
 # ----- 开始分析小组 E
 
@@ -107,16 +107,16 @@
 
 > ⭕ 小组 E - Spain vs. Germany: Draw
 
-> 小组 E - 日本(Japan) vs. 西班牙(Spain): 西班牙(Spain) 获胜，胜率： 0.62
+> ❌ 小组 E - 日本(Japan) vs. 西班牙(Spain): 西班牙(Spain) 获胜，胜率： 0.62
 
-> 小组 E - 哥斯达黎加(Costa Rica) vs. 德国(Germany): 德国(Germany) 获胜，胜率： 0.60
+> ⭕ 小组 E - 哥斯达黎加(Costa Rica) vs. 德国(Germany): 德国(Germany) 获胜，胜率： 0.60
 
 ## 小组 E 排名:
 
-- 西班牙(Spain) -------- 7
-- 德国(Germany) -------- 7
-- 日本(Japan) -------- 1
-- 哥斯达黎加(Costa Rica) -------- 1
+- 日本(Japan) -------- 6
+- 西班牙(Spain) -------- 4
+- 德国(Germany) -------- 4
+- 哥斯达黎加(Costa Rica) -------- 3
 
 # ----- 开始分析小组 F
 
@@ -128,16 +128,16 @@
 
 > ⭕ 小组 F - 克罗地亚(Croatia) vs. 加拿大(Canada): 克罗地亚(Croatia) 获胜，胜率： 0.62
 
-> 小组 F - 克罗地亚(Croatia) vs. 比利时(Belgium): 比利时(Belgium) 获胜，胜率： 0.60
+> ❌ 小组 F - 克罗地亚(Croatia) vs. 比利时(Belgium): 比利时(Belgium) 获胜，胜率： 0.60
 
-> 小组 F - Canada vs. Morocco: Draw
+> ❌ 小组 F - Canada vs. Morocco: Draw
 
 ## 小组 F 排名:
 
-- 比利时(Belgium) -------- 9
-- 克罗地亚(Croatia) -------- 6
-- 摩洛哥(Morocco) -------- 1
-- 加拿大(Canada) -------- 1
+- 摩洛哥(Morocco) -------- 7
+- 克罗地亚(Croatia) -------- 5
+- 比利时(Belgium) -------- 4
+- 加拿大(Canada) -------- 0
 
 # ----- 开始分析小组 G
 
@@ -149,16 +149,16 @@
 
 > ❌ 小组 G - Brazil vs. Switzerland: Draw
 
-> 小组 G - 塞尔维亚(Serbia) vs. 瑞士(Switzerland): 瑞士(Switzerland) 获胜，胜率： 0.56
+> ⭕ 小组 G - 塞尔维亚(Serbia) vs. 瑞士(Switzerland): 瑞士(Switzerland) 获胜，胜率： 0.56
 
-> 小组 G - 喀麦隆(Cameroon) vs. 巴西(Brazil): 巴西(Brazil) 获胜，胜率： 0.71
+> ❌ 小组 G - 喀麦隆(Cameroon) vs. 巴西(Brazil): 巴西(Brazil) 获胜，胜率： 0.71
 
 ## 小组 G 排名:
 
-- 巴西(Brazil) -------- 7
-- 瑞士(Switzerland) -------- 7
-- 塞尔维亚(Serbia) -------- 3
-- 喀麦隆(Cameroon) -------- 0
+- 巴西(Brazil) -------- 6
+- 瑞士(Switzerland) -------- 6
+- 喀麦隆(Cameroon) -------- 4
+- 塞尔维亚(Serbia) -------- 1
 
 # ----- 开始分析小组 H
 
@@ -170,16 +170,16 @@
 
 > ❌ 小组 H - Portugal vs. Uruguay: Draw
 
-> 小组 H - 加纳(Ghana) vs. 乌拉圭(Uruguay): 乌拉圭(Uruguay) 获胜，胜率： 0.69
+> ⭕ 小组 H - 加纳(Ghana) vs. 乌拉圭(Uruguay): 乌拉圭(Uruguay) 获胜，胜率： 0.69
 
-> 小组 H - 韩国(South Korea) vs. 葡萄牙(Portugal): 葡萄牙(Portugal) 获胜，胜率： 0.63
+> ❌ 小组 H - 韩国(South Korea) vs. 葡萄牙(Portugal): 葡萄牙(Portugal) 获胜，胜率： 0.63
 
 ## 小组 H 排名:
 
-- 葡萄牙(Portugal) -------- 7
-- 乌拉圭(Uruguay) -------- 7
-- 韩国(South Korea) -------- 3
-- 加纳(Ghana) -------- 0
+- 葡萄牙(Portugal) -------- 6
+- 韩国(South Korea) -------- 4
+- 乌拉圭(Uruguay) -------- 4
+- 加纳(Ghana) -------- 3
 
 ---
 
