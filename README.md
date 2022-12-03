@@ -6,11 +6,11 @@
 ❗❗❗仅供参考，不负责❗❗❗
 ❗❗❗仅供参考，不负责❗❗❗
 ❗❗❗仅供参考，不负责❗❗❗
-截止 2022 年 12 月 3 日 17 点 06 分
-总 48 场
+截止 2022 年 12 月 4 日 03 点 45 分
+小组赛总 48 场
 ⭕ 24 场
 ❌ 24 场
-预测准确率 50%
+小组赛预测准确率 50%
 ```
 
 # ----- 开始分析小组 A
@@ -180,58 +180,6 @@
 - 韩国(South Korea) -------- 4
 - 乌拉圭(Uruguay) -------- 4
 - 加纳(Ghana) -------- 3
-
----
-
----
-
----
-
-# 开始模拟 16 强
-
-> 荷兰(Netherlands) vs. 美国(United States): 荷兰(Netherlands) 晋级，概率： 0.55
-
-> 阿根廷(Argentina) vs. 丹麦(Denmark): 阿根廷(Argentina) 晋级，概率： 0.59
-
-> 西班牙(Spain) vs. 克罗地亚(Croatia): 西班牙(Spain) 晋级，概率： 0.57
-
-> 巴西(Brazil) vs. 乌拉圭(Uruguay): 巴西(Brazil) 晋级，概率： 0.60
-
-> 厄瓜多尔(Ecuador) vs. 英格兰(England): 英格兰(England) 晋级，概率： 0.65
-
-> 波兰(Poland) vs. 法国(France): 法国(France) 晋级，概率： 0.60
-
-> 德国(Germany) vs. 比利时(Belgium): 比利时(Belgium) 晋级，概率： 0.50
-
-> 瑞士(Switzerland) vs. 葡萄牙(Portugal): 葡萄牙(Portugal) 晋级，概率： 0.52
-
----
-
----
-
----
-
-# 开始模拟 四分之一决赛
-
-> 荷兰(Netherlands) vs. 阿根廷(Argentina): 荷兰(Netherlands) 晋级，概率： 0.52
-
-> 西班牙(Spain) vs. 巴西(Brazil): 巴西(Brazil) 晋级，概率： 0.51
-
-> 英格兰(England) vs. 法国(France): 法国(France) 晋级，概率： 0.51
-
-> 比利时(Belgium) vs. 葡萄牙(Portugal): 葡萄牙(Portugal) 晋级，概率： 0.52
-
----
-
----
-
----
-
-# 开始模拟 半决赛
-
-> 荷兰(Netherlands) vs. 巴西(Brazil): 巴西(Brazil) 晋级，概率： 0.52
-
-> 法国(France) vs. 葡萄牙(Portugal): 葡萄牙(Portugal) 晋级，概率： 0.52
 
 ---
 
